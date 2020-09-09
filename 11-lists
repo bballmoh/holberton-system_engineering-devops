@@ -1,0 +1,3 @@
+/bin/bash: q: command not found
+ls -lar /boot $OLDPWD $PWD 
+
