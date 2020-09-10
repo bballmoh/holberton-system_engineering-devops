@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x $PWD/hello /n
+chmod u+x $PWD/hello
