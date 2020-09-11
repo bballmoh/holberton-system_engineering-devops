@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R gau+x $PWD
+chmod -RX gau+x $PWD
