@@ -1,2 +1,3 @@
 #!/bin/bash
-echo | fmt /etc/passwd
+fmt /etc/passwd
+
